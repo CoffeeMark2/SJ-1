@@ -1,0 +1,5 @@
+﻿  cmd_console_tools.cpp
+  commn_menu_and_tools.cpp
+E:\小咖啡\TJU\高程\homework\homework\合成十\commn_menu_and_tools.cpp(1,1): warning C4828: 文件包含在偏移 0x370b 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  合成十.vcxproj -> E:\小咖啡\TJU\高程\homework\homework\Debug\合成十.exe
